@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/sphinxbetterblocks/__init__.py
+src/sphinxbetterblocks.egg-info/PKG-INFO
+src/sphinxbetterblocks.egg-info/SOURCES.txt
+src/sphinxbetterblocks.egg-info/dependency_links.txt
+src/sphinxbetterblocks.egg-info/requires.txt
+src/sphinxbetterblocks.egg-info/top_level.txt

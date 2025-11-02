@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sphinxbetterblocks"
+version = "0.1.0"
+authors = [
+  { name="grish-ka" },
+]
+description = "A Sphinx extension for custom admonition blocks like a GitHub box."
+readme = "README.md"
+license = { file="LICENSE" }
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Framework :: Sphinx :: Extension",
+    "Topic :: Documentation :: Sphinx",
+]
+dependencies = [
+    "sphinx>=5.0"
+]
+
+# This is the section that answers your question!
+[project.urls]
+Homepage = "https://github.com/grish-ka/sphinxbetterblocks"
+Issues = "https://github.com/grish-ka/sphinxbetterblocks/issues"
